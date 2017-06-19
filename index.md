@@ -53,7 +53,7 @@ Syntax highlighted code block
 
 
 ```
-[facebook](www.facebook.com) and ![Image](src)
+[facebook](www.facebook.com) and ![Image](C:\Users\Public\Pictures\Sample Pictures\菊花.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
