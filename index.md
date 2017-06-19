@@ -16,36 +16,26 @@ As Kanye West said:
 
 I think you should use an
 `<addr>` element here instead.
+- Bulleted
+- List
 
-1. qq
-1. qq
-   1. aa
-   1. aa
+1. Numbered
+2. List
 
-* ii
-* ii
-  * u
+**Bold** and _Italic_ and `Code` text
+
 
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+
 
 ```markdown
 Syntax highlighted code block
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+
 
 
 
@@ -61,9 +51,9 @@ Content in the first column | Content in the second column
 
 **Bold** and _Italic_ and `Code` text
 
-[facebook](www.facebook.com) and ![Image](src)
-```
 
+```
+[facebook](www.facebook.com) and ![Image](src)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
