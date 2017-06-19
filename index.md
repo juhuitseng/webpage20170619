@@ -53,7 +53,7 @@ Syntax highlighted code block
 
 
 ```
-[facebook](www.facebook.com) and ![flower](\pic\Tulips.jpg)
+[facebook](www.facebook.com) and ![flower](.\pic\Tulips.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
