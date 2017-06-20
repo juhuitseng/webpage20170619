@@ -4,58 +4,8 @@
 You can use the [editor on GitHub](https://github.com/juhuitseng/webpage20170619/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[linux](.\linux.md)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
-I think you should use an
-`<addr>` element here instead.
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-- [linux](.\linux.md)
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-```
 [facebook](www.facebook.com) and ![flower](.\pic\Tulips.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
