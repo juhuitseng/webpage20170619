@@ -34,8 +34,9 @@ Content in the first column | Content in the second column
 > 把已存在文件的时间标签更新为系统当前的时间（默认方式），它们的数据将原封不动地保留下来
 > 创建新的空文件。
 
-```touch 用法
+> 用法
 
+```markdown
 -a：或--time=atime或--time=access或--time=use 只更改存取时间；
 -c：或--no-create 不建立任何文件；
 -d：<时间日期> 使用指定的日期时间，而非现在的时间；
@@ -51,7 +52,7 @@ ex:touch ex2
 
 ```
 
-来自: http://man.linuxde.net/touch
+[link](http://man.linuxde.net/touch)
 
 
 ```markdown
